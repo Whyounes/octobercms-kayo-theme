@@ -1,0 +1,23 @@
+{
+    "name": "rafie/kayo",
+    "type": "october-theme",
+    "description": "Demo OctoberCMS theme",
+    "keywords": ["october", "cms", "demo", "theme"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RAFIE Younes",
+            "email": "younes.rafie@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
